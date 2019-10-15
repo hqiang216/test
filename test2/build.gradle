@@ -44,7 +44,7 @@ ext {
     //包名
     PUBLISH_ARTIFACT_ID = 'aar_test'
     //版本号
-    PUBLISH_VERSION = android.defaultConfig.versionName
+    PUBLISH_VERSION = 1.0
 
     //如上配置，引用时：
     //implementation 'com.example.myapplication.hq216:aar_test:1.0'
